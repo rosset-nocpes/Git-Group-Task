@@ -3,5 +3,5 @@
 using namespace std;
 
 void printMessage() {
-  cout << "Initial message" << endl;
+  cout << "Message from Student B" << endl;
 }
